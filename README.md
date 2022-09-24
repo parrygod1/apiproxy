@@ -18,7 +18,7 @@
       }
     )
   }`
-4. Response sends back a string with `{data: {...}, headers: {...}}
+4. Response sends back a string with `{data: {...}, headers: {...}}`
 
  
 
