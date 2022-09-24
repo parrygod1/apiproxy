@@ -1,0 +1,19 @@
+{
+  "name": "jsonquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "exports": "./index.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "json-query": "^2.2.2",
+    "object-fill-missing-keys": "^9.2.1"
+  }
+}
